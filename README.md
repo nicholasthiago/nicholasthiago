@@ -1,6 +1,6 @@
 ### Hi there Nicholas Thiago 👋 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Welcome%20&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=#0284c7&height=280&section=header&text=Welcome%20&fontSize=64" />
 #### Web Development
 Based in Calgary. Full Stack Software Developer. Let's spread the passion and joy of coding.
 
@@ -9,9 +9,8 @@ Based in Calgary. Full Stack Software Developer. Let's spread the passion and jo
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nicholas-thiago/)](https://www.linkedin.com/in/nicholas-thiago/)
-[![Linkedin Badge](https://img.shields.io/badge/-MyWebpage-black?style=flat-square&logo=Linkedin&logoColor=white&link=http://https://softwaredeveloper-chloe.netlify.app)](http://softwaredeveloper-chloe.netlify.app)
+[![Linkedin Badge](https://img.shields.io/badge/-MyWebpage-black?style=flat-square&logo=Linkedin&logoColor=white&link=http://https://nicholasthiago.github.io/)](https://nicholasthiago.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itprofessional.4ever7@gmail.com)](mailto:itprofessional.4ever7@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
   <h2>Tech Stack 📚 </h2>
   <h3>🕯 Main Stack 🕯</h3>
