@@ -1,7 +1,7 @@
 ### Hi there Nicholas Thiago 👋 
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=#0284c7&height=280&section=header&text=Welcome%20&fontSize=64" />
-#### Web Development
+#### Full Stack Developer [ MERN / Mext / TypeScript ]
 Based in Calgary. Full Stack Software Developer. Let's spread the passion and joy of coding.
 
 - 🔭 I’m currently working on this page. 
